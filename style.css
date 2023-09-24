@@ -1,0 +1,16 @@
+/* Language */
+.language .card{
+    text-align: center;
+    margin: 18px 10px 40px;
+    transition: transform 0.2s ease-in ;
+}
+.language .flex{
+    flex-wrap: wrap;
+}
+.language .card h4{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.language .card:hover{
+    transform: translateY(-15px);
+}
